@@ -8,7 +8,7 @@ class NavBar extends Component {
       <Navbar>
         <Navbar.Header>
           <Navbar.Brand>
-            <a href="/">React-Bootstrap</a>
+            <h3> Social Sphere</h3>
           </Navbar.Brand>
         </Navbar.Header>
         <Nav>
